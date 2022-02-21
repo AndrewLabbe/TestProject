@@ -24,5 +24,4 @@ public class Snack {
 	public void setPrice(double price) {
 		Price = price;
 	}
-	
 }
